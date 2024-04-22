@@ -11,8 +11,10 @@
 *.kicad_prl
 *.sch-bak
 *~
-_autosave-*
+~*
 *.tmp
+*.lck
+\#auto_saved_files#
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache

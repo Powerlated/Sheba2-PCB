@@ -9486,7 +9486,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 59.69 0)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 86.36 0)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 269.24 26.67 0)
 			(effects
 				(font
@@ -13059,7 +13059,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 237.49 26.67 0)
 			(effects
 				(font
@@ -13411,7 +13411,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 68.58 0)
 			(effects
 				(font
@@ -14086,7 +14086,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 50.8 0)
 			(effects
 				(font
@@ -14162,7 +14162,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 41.91 0)
 			(effects
 				(font
@@ -14673,6 +14673,15 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
+			(at 27.94 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "PRT-10474"
 			(at 27.94 48.26 0)
 			(effects
 				(font
@@ -17089,7 +17098,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "RG1005P-151-B-T5"
+		(property "DigiKey" "P150BCCT-ND"
 			(at 257.81 77.47 0)
 			(effects
 				(font
