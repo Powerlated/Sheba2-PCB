@@ -1,10 +1,14 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "Battery"
+    ],
+    "hidden_nets": [
+      "+BATT"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -33,13 +37,14 @@
       2,
       3,
       4,
+      5,
       8,
       9,
       10,
       11,
       13,
       15,
-      16,
+      18,
       19,
       20,
       21,
@@ -51,14 +56,14 @@
       27,
       28,
       29,
-      30,
       32,
       34,
       35,
-      39,
+      36,
+      37,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffef_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -68,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Shiba 2 Credit Card Sized.kicad_prl",
+    "filename": "Shiba 2.kicad_prl",
     "version": 3
   },
   "project": {
