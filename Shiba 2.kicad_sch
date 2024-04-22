@@ -9250,7 +9250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 85.852 41.91 90)
 			(effects
 				(font
@@ -9277,7 +9277,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "CRCW120652K3FKEA"
 			(at 87.63 41.91 0)
 			(effects
 				(font
@@ -9459,7 +9459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 61.468 90)
 			(effects
 				(font
@@ -9486,7 +9486,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 59.69 0)
 			(effects
 				(font
@@ -9631,7 +9631,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "2.54mm Pin Socket"
 			(at 142.24 22.86 0)
 			(effects
 				(font
@@ -9755,7 +9755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 49.53 0)
 			(effects
 				(font
@@ -9773,7 +9773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 40.64 49.53 0)
 			(effects
 				(font
@@ -9782,7 +9782,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B106KOHNNWE"
 			(at 40.64 49.53 0)
 			(effects
 				(font
@@ -9928,6 +9928,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "ZXBM5210-S-1"
+			(at 36.83 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "03a0ffc4-8aba-4be0-ae10-23d44fa3b484")
 		)
@@ -10055,7 +10064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 62.23 81.28 0)
 			(effects
 				(font
@@ -10073,7 +10082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 62.23 81.28 0)
 			(effects
 				(font
@@ -10082,7 +10091,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 62.23 81.28 0)
 			(effects
 				(font
@@ -10180,7 +10189,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1fa11d82-90c3-4248-a4e5-c626b8468233")
 		(property "Reference" "H4"
@@ -10220,15 +10229,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 52.07 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey Part" ""
 			(at 52.07 186.69 0)
 			(effects
 				(font
@@ -10302,7 +10302,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "EG1271A"
 			(at 102.87 180.34 0)
 			(effects
 				(font
@@ -10450,7 +10450,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "STM32F072C8T6TR"
 			(at 182.88 115.57 0)
 			(effects
 				(font
@@ -10695,7 +10695,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small22uF"
+		(property "Value" "C1uF"
 			(at 195.5863 66.04 90)
 			(effects
 				(font
@@ -10703,7 +10703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 196.85 69.85 0)
 			(effects
 				(font
@@ -10721,7 +10721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 196.85 69.85 0)
 			(effects
 				(font
@@ -10730,7 +10730,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "GRM188R60J226MEA0J"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 196.85 69.85 0)
 			(effects
 				(font
@@ -10827,7 +10827,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2ea3b5e3-052b-41ae-b30a-ea9467d0175c")
 		(property "Reference" "H1"
@@ -10865,15 +10865,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 26.67 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey Part" ""
 			(at 26.67 176.53 0)
 			(effects
 				(font
@@ -11044,7 +11035,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small2.2uF"
+		(property "Value" "C2.2uF"
 			(at 149.86 224.7962 0)
 			(effects
 				(font
@@ -11053,7 +11044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 147.32 223.52 0)
 			(effects
 				(font
@@ -11071,7 +11062,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
+			(at 147.32 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "CL31B225KBHNFNE"
 			(at 147.32 223.52 0)
 			(effects
 				(font
@@ -11121,7 +11121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 88.138 90)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 86.36 0)
 			(effects
 				(font
@@ -11390,7 +11390,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small0.1uF"
+		(property "Value" "C0.1uF"
 			(at 138.43 224.7962 0)
 			(effects
 				(font
@@ -11399,7 +11399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 140.97 223.52 0)
 			(effects
 				(font
@@ -11417,7 +11417,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
+			(at 140.97 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "C1206C104K5RAC7800"
 			(at 140.97 223.52 0)
 			(effects
 				(font
@@ -11625,7 +11634,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "AP62150Z6-7"
 			(at 54.61 43.18 0)
 			(effects
 				(font
@@ -11782,6 +11791,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "ZXBM5210-S-1"
+			(at 76.2 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "54857a95-8326-4427-b8d8-42de02af532d")
 		)
@@ -11906,6 +11924,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "ICM-42670-P"
+			(at 69.85 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -12119,7 +12146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 269.24 28.448 90)
 			(effects
 				(font
@@ -12146,7 +12173,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 269.24 26.67 0)
 			(effects
 				(font
@@ -12197,7 +12224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 22.86 128.27 0)
 			(effects
 				(font
@@ -12215,7 +12242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 22.86 128.27 0)
 			(effects
 				(font
@@ -12224,7 +12251,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 22.86 128.27 0)
 			(effects
 				(font
@@ -12301,7 +12328,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "2.54mm Pin Socket"
 			(at 154.94 179.07 0)
 			(effects
 				(font
@@ -12510,7 +12537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 74.93 40.64 0)
 			(effects
 				(font
@@ -12528,7 +12555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 74.93 40.64 0)
 			(effects
 				(font
@@ -12537,7 +12564,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "1206B104K500BD"
+		(property "DigiKey" "C1206C104K5RAC7800"
 			(at 74.93 40.64 0)
 			(effects
 				(font
@@ -12785,7 +12812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 245.11 26.67 0)
 			(effects
 				(font
@@ -12803,7 +12830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 245.11 26.67 0)
 			(effects
 				(font
@@ -12812,7 +12839,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120VS75000"
 			(at 245.11 26.67 0)
 			(effects
 				(font
@@ -12920,7 +12947,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small22uF"
+		(property "Value" "C1uF"
 			(at 196.8563 55.88 90)
 			(effects
 				(font
@@ -12928,7 +12955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 196.85 59.69 0)
 			(effects
 				(font
@@ -12946,7 +12973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 196.85 59.69 0)
 			(effects
 				(font
@@ -12955,7 +12982,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "GRM188R60J226MEA0J"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 196.85 59.69 0)
 			(effects
 				(font
@@ -13005,7 +13032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 237.49 28.448 90)
 			(effects
 				(font
@@ -13032,7 +13059,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 237.49 26.67 0)
 			(effects
 				(font
@@ -13280,7 +13307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 185.42 183.388 90)
 			(effects
 				(font
@@ -13307,7 +13334,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RC1206FR-0710KL"
 			(at 185.42 181.61 0)
 			(effects
 				(font
@@ -13357,7 +13384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 70.358 90)
 			(effects
 				(font
@@ -13384,7 +13411,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 68.58 0)
 			(effects
 				(font
@@ -13436,7 +13463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 35.56 81.28 0)
 			(effects
 				(font
@@ -13454,7 +13481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 35.56 81.28 0)
 			(effects
 				(font
@@ -13463,7 +13490,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 35.56 81.28 0)
 			(effects
 				(font
@@ -13494,7 +13521,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "865fb1d4-c9fb-438d-aed2-63d6f4630d71")
 		(property "Reference" "H3"
@@ -13542,15 +13569,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
-			(at 52.07 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ad96f16d-f8ee-4807-ae3b-899bf99a4802")
 		)
@@ -13589,7 +13607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 246.38 50.8 0)
 			(effects
 				(font
@@ -13607,7 +13625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 246.38 50.8 0)
 			(effects
 				(font
@@ -13616,7 +13634,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120RS75000"
 			(at 246.38 50.8 0)
 			(effects
 				(font
@@ -13827,6 +13845,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "ZXBM5210-S-1"
+			(at 116.84 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "5d1ad9ee-f103-4bad-9e70-6068929dc360")
 		)
@@ -13955,7 +13982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 100.33 44.45 0)
 			(effects
 				(font
@@ -13973,7 +14000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 100.33 44.45 0)
 			(effects
 				(font
@@ -13982,7 +14009,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "GRM188R60J226MEA0J"
+		(property "DigiKey" "CL31A226MOCLNNC"
 			(at 100.33 44.45 0)
 			(effects
 				(font
@@ -14032,7 +14059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 52.578 90)
 			(effects
 				(font
@@ -14059,7 +14086,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 50.8 0)
 			(effects
 				(font
@@ -14108,7 +14135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 43.688 90)
 			(effects
 				(font
@@ -14135,7 +14162,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 41.91 0)
 			(effects
 				(font
@@ -14211,7 +14238,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "USB-A1HSB6"
 			(at 246.38 110.49 0)
 			(effects
 				(font
@@ -14272,7 +14299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 85.852 49.53 90)
 			(effects
 				(font
@@ -14299,7 +14326,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RC1206FR-0710KL"
 			(at 87.63 49.53 0)
 			(effects
 				(font
@@ -14483,7 +14510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 246.38 68.58 0)
 			(effects
 				(font
@@ -14501,7 +14528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 246.38 68.58 0)
 			(effects
 				(font
@@ -14510,7 +14537,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120RS75000"
 			(at 246.38 68.58 0)
 			(effects
 				(font
@@ -14654,15 +14681,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "PRT-10474"
-			(at 27.94 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4d8d3875-8990-4891-88af-d14ba620b9cf")
 		)
@@ -14704,7 +14722,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -14722,7 +14740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -14731,7 +14749,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120VS75000"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -14774,7 +14792,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small10nF"
+		(property "Value" "C0.01uF"
 			(at 115.57 226.0662 0)
 			(effects
 				(font
@@ -14783,7 +14801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 118.11 224.79 0)
 			(effects
 				(font
@@ -14801,7 +14819,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
+			(at 118.11 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "C1206C103K5RAC7025"
 			(at 118.11 224.79 0)
 			(effects
 				(font
@@ -15049,7 +15076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 185.42 173.228 90)
 			(effects
 				(font
@@ -15076,7 +15103,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RC1206FR-0710KL"
 			(at 185.42 171.45 0)
 			(effects
 				(font
@@ -15286,7 +15313,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "2.54mm Pin Header"
 			(at 196.85 27.94 0)
 			(effects
 				(font
@@ -15414,7 +15441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 246.38 86.36 0)
 			(effects
 				(font
@@ -15432,7 +15459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 246.38 86.36 0)
 			(effects
 				(font
@@ -15441,7 +15468,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120RS75000"
 			(at 246.38 86.36 0)
 			(effects
 				(font
@@ -15586,7 +15613,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "2.54mm Pin Socket"
 			(at 142.24 48.26 0)
 			(effects
 				(font
@@ -15775,7 +15802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 238.76 77.47 0)
 			(effects
 				(font
@@ -15793,7 +15820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 238.76 77.47 0)
 			(effects
 				(font
@@ -15802,7 +15829,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120VS75000"
 			(at 238.76 77.47 0)
 			(effects
 				(font
@@ -15881,7 +15908,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "2.54mm Pin Socket"
 			(at 142.24 35.56 0)
 			(effects
 				(font
@@ -15938,7 +15965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -15956,7 +15983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -15965,7 +15992,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -16015,7 +16042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 238.76 59.69 0)
 			(effects
 				(font
@@ -16033,7 +16060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 238.76 59.69 0)
 			(effects
 				(font
@@ -16042,7 +16069,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120VS75000"
 			(at 238.76 59.69 0)
 			(effects
 				(font
@@ -16073,7 +16100,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d5344536-8a00-41ef-b89e-3b268996abfd")
 		(property "Reference" "H2"
@@ -16119,15 +16146,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
-			(at 26.67 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "346323e5-05c1-4582-9bda-b54dbea1186b")
 		)
@@ -16159,7 +16177,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R10k"
 			(at 151.13 90.1699 0)
 			(effects
 				(font
@@ -16168,7 +16186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 146.812 88.9 90)
 			(effects
 				(font
@@ -16195,7 +16213,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RC1206FR-0710KL"
 			(at 148.59 88.9 0)
 			(effects
 				(font
@@ -16272,7 +16290,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "MIC5504-3.3YM5"
 			(at 49.53 78.74 0)
 			(effects
 				(font
@@ -16426,7 +16444,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "PJ-037A"
 			(at 19.05 26.67 0)
 			(effects
 				(font
@@ -16771,7 +16789,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "OQ0612510000G"
 			(at 59.69 104.14 0)
 			(effects
 				(font
@@ -16927,7 +16945,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "LQM31PN3R3M00L"
 			(at 81.28 35.56 0)
 			(effects
 				(font
@@ -17044,7 +17062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 257.81 79.248 90)
 			(effects
 				(font
@@ -17071,7 +17089,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "RG1005P-151-B-T5"
 			(at 257.81 77.47 0)
 			(effects
 				(font
@@ -17121,7 +17139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 276.86 26.67 0)
 			(effects
 				(font
@@ -17139,7 +17157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED"
 			(at 276.86 26.67 0)
 			(effects
 				(font
@@ -17148,7 +17166,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey" "150120VS75000"
 			(at 276.86 26.67 0)
 			(effects
 				(font
@@ -17199,7 +17217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 102.87 128.27 0)
 			(effects
 				(font
@@ -17217,7 +17235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Ceramic cap"
 			(at 102.87 128.27 0)
 			(effects
 				(font
@@ -17226,7 +17244,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" " CL21A106KOQNNNE"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 102.87 128.27 0)
 			(effects
 				(font
