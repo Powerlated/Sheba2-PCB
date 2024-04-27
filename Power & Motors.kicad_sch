@@ -4291,6 +4291,17 @@
 		)
 		(uuid 9be95da4-c94d-4963-a922-de26eae758e1)
 	)
+	(text "\"Bypass VIN to GND with\na suitably large capacitor\""
+		(exclude_from_sim no)
+		(at 35.306 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2fbd53d8-7c7f-417c-a231-a1ca9f8ede86")
+	)
 	(text "Overvoltage Protection"
 		(exclude_from_sim no)
 		(at 216.916 93.472 0)
@@ -4340,9 +4351,20 @@
 		)
 		(uuid "74ef5a3b-10a1-416c-a243-b095053f39ec")
 	)
+	(text "SW to BST capacitor:\n\"100nF or higher\""
+		(exclude_from_sim no)
+		(at 64.77 48.514 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0acc0cf-ddcf-448c-b319-466a9aed0e25")
+	)
 	(text "VIN: 4.2 to 18V"
 		(exclude_from_sim no)
-		(at 41.91 22.86 0)
+		(at 34.29 19.304 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5094,7 +5116,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C0.1uF"
+		(property "Value" "C1uF"
 			(at 78.74 38.1062 0)
 			(effects
 				(font
@@ -5130,7 +5152,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "C1206C104K5RAC7800"
+		(property "DigiKey" "CL31B105KBHNNNE"
 			(at 76.2 36.83 0)
 			(effects
 				(font
@@ -7582,7 +7604,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C10uF"
+		(property "Value" "C22uF"
 			(at 39.37 46.9963 0)
 			(effects
 				(font
@@ -7618,7 +7640,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "CL31B106KOHNNWE"
+		(property "DigiKey" "CL31A226MOCLNNC"
 			(at 41.91 45.72 0)
 			(effects
 				(font

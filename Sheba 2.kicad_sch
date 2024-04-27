@@ -5907,7 +5907,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Plug_USB2.0"
+		(property "Value" "USB 2.0 Type-C Port"
 			(at 161.29 71.12 0)
 			(effects
 				(font
@@ -6186,7 +6186,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "SPDT Switch"
 			(at 105.41 95.25 0)
 			(effects
 				(font
