@@ -4,4 +4,7 @@
   (lib (name "A3909GLYTR-T")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/A3909GLYTR-T.kicad_sym")(options "")(descr ""))
   (lib (name "DRV8313PWPR")(type "Altium")(uri "${KIPRJMOD}/Library.pretty/DRV8313PWPR.IntLib")(options "")(descr ""))
   (lib (name "MP6610GJ-Z")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/MP6610GJ-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C3-MINI-1_EXP")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/ESP32-C3-MINI-1_EXP.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C6-MINI-1-N4")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/ESP32-C6-MINI-1-N4.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C6-WROOM-1-N4")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/ESP32-C6-WROOM-1-N4.kicad_sym")(options "")(descr ""))
 )
