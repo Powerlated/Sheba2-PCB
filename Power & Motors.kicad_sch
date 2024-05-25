@@ -5130,7 +5130,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 76.2 39.3762 0)
 			(effects
 				(font
@@ -5441,7 +5441,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 116.84 29.21 90)
 			(effects
 				(font
@@ -5554,7 +5554,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 120.65 90)
 			(effects
 				(font
@@ -5734,7 +5734,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R10k"
+		(property "Value" "10k"
 			(at 88.9 48.26 0)
 			(effects
 				(font
@@ -6093,7 +6093,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 85.09 90)
 			(effects
 				(font
@@ -6375,7 +6375,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3de3bc8f-7211-4a8b-94db-e1e038c72317")
 		(property "Reference" "D11"
 			(at 247.65 107.95 0)
@@ -6746,7 +6746,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 121.92 106.6863 0)
 			(effects
 				(font
@@ -6992,7 +6992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 71.12 106.6863 0)
 			(effects
 				(font
@@ -7172,7 +7172,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 111.76 90)
 			(effects
 				(font
@@ -7529,7 +7529,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "71ab38e8-01f6-4da4-986f-ce208467eb42")
 		(property "Reference" "Motor Terminal1"
@@ -7731,7 +7731,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C22uF"
+		(property "Value" "22uF"
 			(at 36.83 48.2663 0)
 			(effects
 				(font
@@ -8013,7 +8013,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7680cd36-3939-42eb-b356-2a946740ea5b")
 		(property "Reference" "D12"
 			(at 247.65 124.46 0)
@@ -8306,7 +8306,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7cacaa21-6d66-4e8b-a50a-35ede4600e74")
 		(property "Reference" "Battery1"
 			(at 18.288 42.164 0)
@@ -9251,7 +9251,7 @@
 				)
 			)
 		)
-		(property "Value" "L3.3uH"
+		(property "Value" "3.3uH"
 			(at 80.01 30.48 90)
 			(effects
 				(font
@@ -9429,7 +9429,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 196.85 34.29 90)
 			(effects
 				(font
@@ -9947,7 +9947,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 76.2 90)
 			(effects
 				(font
@@ -10060,7 +10060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 25.4 106.6863 0)
 			(effects
 				(font
@@ -10351,7 +10351,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R56.2k"
+		(property "Value" "56.2k"
 			(at 88.9 40.6399 0)
 			(effects
 				(font
@@ -10465,7 +10465,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 97.79 106.6863 0)
 			(effects
 				(font
@@ -11194,7 +11194,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 148.59 106.6863 0)
 			(effects
 				(font
@@ -11308,7 +11308,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 93.98 90)
 			(effects
 				(font
@@ -11422,7 +11422,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C22uF"
+		(property "Value" "22uF"
 			(at 101.6 48.2662 0)
 			(effects
 				(font
@@ -11536,7 +11536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 52.07 106.6863 0)
 			(effects
 				(font
@@ -11716,7 +11716,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 198.12 102.87 90)
 			(effects
 				(font
@@ -11895,7 +11895,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 185.42 44.4563 0)
 			(effects
 				(font
@@ -12076,7 +12076,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 153.67 44.4563 0)
 			(effects
 				(font
@@ -12191,7 +12191,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C22uF"
+		(property "Value" "22uF"
 			(at 114.3 48.2662 0)
 			(effects
 				(font

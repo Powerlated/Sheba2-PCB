@@ -4930,7 +4930,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "205b1b8b-ff1c-4a9a-ac58-3237e37a7afb")
 		(property "Reference" "SW1"
@@ -5057,7 +5057,7 @@
 				)
 			)
 		)
-		(property "Value" "R5.11K"
+		(property "Value" "5.11k"
 			(at 138.43 64.77 90)
 			(effects
 				(font
@@ -5370,7 +5370,7 @@
 				)
 			)
 		)
-		(property "Value" "C22uF"
+		(property "Value" "22uF"
 			(at 184.1563 82.55 0)
 			(effects
 				(font
@@ -5548,7 +5548,7 @@
 				)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 194.3163 82.55 0)
 			(effects
 				(font
@@ -6043,7 +6043,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R10k"
+		(property "Value" "10k"
 			(at 190.5 38.0999 0)
 			(effects
 				(font
@@ -6455,7 +6455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R10k"
+		(property "Value" "10k"
 			(at 209.55 83.8199 0)
 			(effects
 				(font
@@ -6977,7 +6977,7 @@
 				)
 			)
 		)
-		(property "Value" "C1uF"
+		(property "Value" "1uF"
 			(at 182.8863 49.53 0)
 			(effects
 				(font
@@ -7290,7 +7290,7 @@
 				)
 			)
 		)
-		(property "Value" "R220"
+		(property "Value" "220"
 			(at 210.82 146.05 90)
 			(effects
 				(font
